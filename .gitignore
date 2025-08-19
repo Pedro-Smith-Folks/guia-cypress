@@ -159,3 +159,4 @@ npm-debug.log*
 # Se você tiver um arquivo para variáveis de ambiente,
 # ignore-o para não expor dados sensíveis.
 cypress.env.json
+
